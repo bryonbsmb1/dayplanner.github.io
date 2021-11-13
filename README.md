@@ -29,7 +29,7 @@ THEN the saved events persist
 
 ### Deployment: 
 
-* Application is deployed at live URL 
+* Application is deployed at live URL https://bryonbsmb1.github.io/dayplanner.github.io/
 
 * Application loads with no errors
 
